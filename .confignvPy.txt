@@ -1,15 +1,12 @@
 .confignvPy
 
-In order to config nvPY I have had to create my own config file in the home directory name ".nvpy.cfg"  with the following contents
-
+.confignvPy
+In order to config nvPY I have had to create my own config file in the home directory name ".nvpy.cfg" with the following contents
 [nvpy]
 notes_as_txt = 1
 txt_path = /home/will/hist3907-notebook/
 simplenote_sync = 0
-
 This allows nvPY to sav each note as a text file instead of on json file which holds ll of the notes.
-
 two websites which I used for this are
-
 https://github.com/cpbotha/nvpy
 http://mylinuxlife.com/installing-notational-velocity-and-its-cousin-nvpy/
