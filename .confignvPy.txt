@@ -6,7 +6,20 @@ In order to config nvPY I have had to create my own config file in the home dire
 notes_as_txt = 1
 txt_path = /home/will/hist3907-notebook/
 simplenote_sync = 0
+
 This allows nvPY to sav each note as a text file instead of on json file which holds ll of the notes.
 two websites which I used for this are
 https://github.com/cpbotha/nvpy
 http://mylinuxlife.com/installing-notational-velocity-and-its-cousin-nvpy/
+
+In order to maintain my notes and be able to retrieve them in nvPY, I also had to register with Simplenote by placing the following code in the .cfg file
+
+sn_username = your_simplenote_username
+sn_password = your_simplenote_password
+
+I also had to remove the previous line
+
+simplenote_sync = 0
+
+so that it would sync with SImplenote 
+https://github.com/cpbotha/nvpy/blob/master/README.rst
