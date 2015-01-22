@@ -1,0 +1,7 @@
+.ReadingBigData#2
+
+http://historyonics.blogspot.ca/2013/12/big-data-for-dead-people-digital.html
+
+Regarding Ben Schmidt's analysis of the dialogue of Mad Men, he compares the language in the series against the corpus of text published in that particular year drawm from Google Books.
+
+This allows us a different perspective of what is written.  It allows us to see patterns and developments in the text more easily.  It also allows us to determine whether historical literature is accurate or 'normal' according to the time it is based on because we have resources to compare it to
