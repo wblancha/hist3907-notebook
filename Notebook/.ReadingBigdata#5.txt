@@ -1,0 +1,5 @@
+.ReadingBigdata#5
+
+http://historyonics.blogspot.ca/2013/12/big-data-for-dead-people-digital.html
+
+BY doing distant reading using tools such as Voyant Tools, it allows historians to approach texts from a different perpsective.  That is instead of viewing a text historically, we can view it from a linguistic perspective and note the kind of language used and make interpretations from that

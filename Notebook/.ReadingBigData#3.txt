@@ -1,0 +1,5 @@
+.ReadingBigData#3
+
+http://historyonics.blogspot.ca/2013/12/big-data-for-dead-people-digital.html
+
+There is often much more information than just what is shown on the screen.  Oftentimes, there is much mroe info buried in the xml markup which can allow us to do more of a close reading of the text
