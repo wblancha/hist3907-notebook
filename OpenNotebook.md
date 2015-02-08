@@ -1,4 +1,7 @@
 # Mac or Windows?  I choose neither.
+
+First of all, if all you are looking for is a quick step-by-step guide to creating an open notebook on Ubuntu, I just want to let you know that it will come shortly. However, for the time being, you will have to bear with me and use this long explanation.
+
 While making my way through the first module of HIST 3907 I came across something that was going to provide me with a challenge.  The instructions for creating an open notebook were only for Windows and Mac users!  Now, I don't have anything against either operating system, but I prefer to do all of my work in Ubuntu for a number of reasons.  First of all, I do not own a Mac.  Secondly, and most importantly, for me, Windows is full of distractions and anytime I try to do some work while on Windows I find myself doing something completely unrelated for an extended period of time.  This often results in some late, stressful nights where I scramble to finish something which I should have finished days ago.  So one day I decided to log onto the other partition on my hard drive which housed Ubuntu and had been ignored for so long.  The results were amazing.  After logging on I found myself in an undisturbed environment with nothing to distract me.  There were no games, movies, or tv shows calling my name begging to be watched.  There was nothing except for the task which needed to be completed.
 
 Since then I have always done my work on Ubuntu.  I find it much easier this way and that is why I have also chosen to do the work for this class on Ubuntu.  So when the first module called for the creation of an open notebook I navigated over to Google and searched for a linux substitute for Notational velocity.  What I found was an open source program called nvPY.  This program is a a simple clone of Notational Velocity which syncs to the online service Simplenote.  However, it takes a bit of setting up in order to get it working properly.
@@ -31,3 +34,11 @@ Now everything worked just as I wanted.  Every note was saved as a .txt file in 
     txt_path = /your/path/here
     sn_username = Your_User_Name
     sn_password = Your_Password
+    
+The final portion of creating my open notebook was to post it on Github in order to share it with the world.  In order to do this, I made a [github account](https://github.com/wblancha).  After doing this I had to install Git onto my machine.  So I navigated to the terminal and I typed in the following.
+    
+    sudo apt-get install git
+    
+Now, I would go into detail about how to set up git to sync with Github but I feel that I couldn't do it better that [this tutorial](http://http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1).  This is the same tutorial I used to learn git from the command line and it is fantastic for learning the basics.  However, if a git gui is something that you might want instead, they are readily available and can be easily found with a quick search in the Ubuntu Software Centre.
+
+That about wraps it up.  As I stated in the beginning, for future reference I will be posting a version of this which will have only the useful information and screenshots!  Lots of screenshots! 
