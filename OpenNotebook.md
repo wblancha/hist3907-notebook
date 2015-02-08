@@ -28,6 +28,6 @@ Now everything worked just as I wanted.  Every note was saved as a .txt file in 
 
     [nvpy]
     notes_as_txt = 1
-    txt_path = /home/will/hist3907-notebook/Notebook
+    txt_path = /your/path/here
     sn_username = Your_User_Name
     sn_password = Your_Password
